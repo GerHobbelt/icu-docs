@@ -1,7 +1,7 @@
 /**
  * Convert the ICU Userguide from Open Office to HTML format.
  * Must be executed from the user guide directory.
- * With no paramters, convert the entire userguide.
+ * With no parameters, convert the entire userguide.
  * With parameters, convert only the specified open office (.sxw) files.
  * 
  */
